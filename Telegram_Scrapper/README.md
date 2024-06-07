@@ -17,7 +17,7 @@ Telegram Scraper is a powerful Python script that allows you to scrape and analy
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/learnershakil/Telegram_Scrapper.git
+   git clone https://github.com/learnershakil/Python_Projects/Telegram_Scrapper.git
    ```
 
 2. Navigate to the project directory:
