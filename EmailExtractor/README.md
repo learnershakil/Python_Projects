@@ -43,7 +43,7 @@
   <li>Clone the repository:</li>
 </ol>
 
-<pre><code>git clone https://github.com/learnershakil/EmailExtractor.git
+<pre><code>git clone https://github.com/learnershakil/Python_Projects/EmailExtractor.git
 </code></pre>
 
 <ol start="2">
